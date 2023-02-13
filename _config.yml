@@ -107,16 +107,3 @@ deploy:
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
 
-# Menu bar
-menu:
-  Home: /
-  Contact: /contact/
-  About: /about/
-
-# Social
-social:
-  linkedin: https://linkedin.com/in/krlohnes
-
-about: We consult 
-phone: 555-555-5555 
-email: thomasfstackowski@gmail.com
