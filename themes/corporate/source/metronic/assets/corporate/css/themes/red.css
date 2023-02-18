@@ -150,18 +150,18 @@ a:hover {
 
 ::-moz-selection {
   color: #fff;
-  background: #e45000;
+  background: #a62b3b;
 }
 ::selection {
   color: #fff;
-  background: #e45000;
+  background: #a62b3b;
 }
 .steps-block ::-moz-selection {
-  color: #e45000;
+  color: #a62b3b;
   background: #fff;
 }
 .steps-block ::selection {
-  color: #e45000;
+  color: #a62b3b;
   background: #fff;
 }
 
