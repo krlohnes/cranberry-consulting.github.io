@@ -328,8 +328,8 @@ a:hover {
 }
 
 .header .mobi-toggler:hover {
-  background-color: #e34f00;
-  border-color: #e34f00;
+  background-color: #a62b3b;
+  border-color: #a62b3b;
 }
 
 @media (max-width: 1024px) {
