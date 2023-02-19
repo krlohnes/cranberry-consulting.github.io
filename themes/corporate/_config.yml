@@ -3,7 +3,7 @@ menu:
   Home: /
   Projects: /projects/
   Blog: /archives/ # can set archive-dir in root config to custom value
-  Contact: /contact/
+    #Contact: /contact/
   About: /about/
    
 rss: /atom.xml
@@ -19,12 +19,7 @@ swiftype_install_key:
 
 # Social
 social:
-  github: https://github.com/cranberry-consulting
-  twitter: https://twitter.com/ptsteadman
-  facebook: https://www.facebook.com/ptsteadman
-  rss: atom.xml
-  linkedin: https://www.linkedin.com/in/keith-lohnes
-  stackoverflow: http://stackoverflow.com/users/2480493/patrick-steadman
+  linkedin: linkedin.com/in/thomas-stachowski-p-e/
 
 # Miscellaneous
 color_scheme: red   # options: blue, gray, green, orange, red, turquoise
@@ -33,9 +28,9 @@ favicon: /favicon.ico # path from root of hexo site
 default_author: Anonymous
 
 about: Cranberry Consulting Company was started in 2023 
-phone: 555-555-5555
+phone: 774-404-2626 
 email: info@cranberry-consulting.com 
-address_1: 123 Some Street 
-address_3: Somewhere, MA 02169
-lat: 42.337147
-long: -71.096530
+#address_1: 123 Some Street 
+#address_3: Somewhere, MA 02169
+#lat: 42.337147
+#long: -71.096530
