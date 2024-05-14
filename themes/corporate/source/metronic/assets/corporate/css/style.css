@@ -517,11 +517,13 @@ body.page-header-fixed {
 }
 
 /* dropdown menu */
+/*
 @media (min-width: 1025px) {
   .header-navigation > ul > li:hover > .dropdown-menu {
     display: block;
   }
 }
+*/
 
 .header-navigation,
 .header-navigation .dropdown {
@@ -765,6 +767,7 @@ body.page-header-fixed {
   padding-top: 9px;
   padding-bottom: 11px;
 }
+/*
 @media (min-width: 1025px) {
   .reduce-header .header-navigation > ul > li > a {
     padding: 16px 12px 35px;
@@ -779,6 +782,7 @@ body.page-header-fixed {
     top: 21px;
   }
 }
+*/
 .reduce-header .mobi-toggler {
   margin-top: 12px;
 }
