@@ -2761,17 +2761,18 @@ Demo Utils
   position: relative;
   padding: 15px 20px 33px;
 }
+
 .front-steps-wrapper .front-step1 {
-  background: #A72C3C;
+  background: #CC2C3C;
 }
 .front-steps-wrapper .front-step2 {
-  background: #7c858e;
+  background: #c22f3d;
 }
 .front-steps-wrapper .front-step3 {
-  background: #68727c;
+  background: #A72C3C;
 }
 .front-steps-wrapper .front-step4 {
-  background: #636a72;
+  background: #8C2C3C;
 }
 .front-steps-wrapper .front-step5 {
   background: #5e6369;
