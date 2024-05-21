@@ -2005,7 +2005,7 @@ Demo Utils
 
 /* Services Box */
 .service-box p {
-  color: #656565;
+  color: #FFF;
   font-size: 13px;
 }
 .service-box .service-box-heading {
@@ -2035,8 +2035,19 @@ Demo Utils
   color: #35aa47;
   border:1px solid #35aa47;
 }
+
+.service-box {
+  border-left: #fff 1px;
+  border-right: #fff 1px;
+}
+
+.service-box .service-box-heading i.white {
+  color: #fff;
+  border:1px solid #fff;
+}
+
 .service-box .service-box-heading span {
-  color: #444;
+  color: #FFF;
   font-size: 21px;
   line-height: 25px;
   font-weight: 400;
@@ -3070,4 +3081,10 @@ Styler Panel
 
 .fancybox-opened {
   z-index: 100001;
+}
+
+.with-icon {
+  background: #A72C3C;
+  border-left: 2px solid white !important;
+  border-right: 2px solid white !important;
 }
