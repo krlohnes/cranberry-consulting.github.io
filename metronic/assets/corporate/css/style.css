@@ -425,7 +425,7 @@ Header and header elements
   box-shadow: 0 1px 3px #ddd;
   background: #A72C3C;
   border-radius: 0;
-  margin-bottom: 23px;
+  margin-bottom: 0px;
   z-index: 999;
   position: relative;
 }
@@ -492,11 +492,13 @@ body.page-header-fixed {
 }
 .header-navigation > ul > li {
   float: left;
+  width: 80px;
+  text-align: center;
 }
 .header-navigation > ul > li > a {
   color: #333;
   display: block;
-  padding: 29px 12px 30px;
+  padding: 30px 12px 30px;
 }
 .header-navigation ul > li.active > a,
 .header-navigation ul > li > a:hover,
@@ -507,9 +509,6 @@ body.page-header-fixed {
   color: #FFF !important;
   background: #6D6E71;
   text-decoration: none;
-}
-.header-navigation ul > li.active > a {
-  border-bottom: 2px solid #6D6E71;
 }
 
 /* dropdown menu */
