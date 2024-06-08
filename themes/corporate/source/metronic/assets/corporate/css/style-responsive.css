@@ -45,6 +45,7 @@
 		float: none;
 		padding: 0;
 		clear: both;
+		width: 100%;
 	}
 	.header .header-navigation li > a,
 	.header .dropdown.open .dropdown-toggle,
