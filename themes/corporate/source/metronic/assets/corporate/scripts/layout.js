@@ -272,8 +272,9 @@ var Layout = function () {
             event.preventDefault();//the default action of the event will not be triggered
             
             $(".header").toggleClass("menuOpened");
-            $(".header").find(".header-navigation").toggle(300);
+            $(".header").find(".header-navigation").slideToggle(300);
         });
+
     }
 
     var handleTheme = function () {
