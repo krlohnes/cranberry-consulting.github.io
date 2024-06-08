@@ -454,10 +454,7 @@ body.page-header-fixed {
   float: left;
   font-size: 23px;
   font-weight: 400;
-
-  margin-right: 67px;
-  padding-top: 15px;
-  padding-bottom: 10px;
+  margin-right: 60px;
 }
 
 .header .mobi-toggler {
@@ -484,10 +481,9 @@ body.page-header-fixed {
 /* Navigation */
 .header-navigation {
   font: 15px "Open Sans", sans-serif;
-  margin: 0 10px 0 0;
+  margin: 0 0 0 0;
   padding: 0;
   float: left;
-  text-transform: uppercase;
 }
 .header-navigation ul {
   margin: 0;
@@ -764,8 +760,6 @@ body.page-header-fixed {
   -webkit-transition: all 0.1s ease;
 }*/
 .reduce-header .site-logo {
-  padding-top: 9px;
-  padding-bottom: 11px;
 }
 /*
 @media (min-width: 1025px) {
@@ -2825,7 +2819,7 @@ Demo Utils
   display: block;
   margin-top: -1em;
   position: absolute;
-  border-left: 15px solid #A72C3C;
+  border-left: 15px solid #CC2C3C;
   border-top: 15px solid transparent;
   border-bottom: 15px solid transparent;
 }
@@ -2836,13 +2830,13 @@ Demo Utils
   display: none;
 }
 .front-steps-wrapper .front-step2:after {
-  border-left-color: #899199;
+  border-left-color: #c22f3d;
 }
 .front-steps-wrapper .front-step3:after {
-  border-left-color: #778089;
+  border-left-color: #A72C3C;
 }
 .front-steps-wrapper .front-step4:after {
-  border-left-color: #727980;
+  border-left-color: #A72C3C;
 }
 .front-steps-wrapper .front-step5:after {
   border-left-color: #6E7278;
