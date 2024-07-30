@@ -777,7 +777,7 @@ body.page-header-fixed {
 }
 */
 .reduce-header .mobi-toggler {
-  margin-top: 12px;
+  margin-top: 25px;
 }
 .page-header-fixed .header .mobi-toggler {
   transition: margin 0.3s ease;
@@ -1895,6 +1895,13 @@ li [class*=" fa-"].icon-large {
 .fontawesome-icon-list .col-md-3 {
     height: 32px;
     line-height: 32px;
+}
+
+@media (min-width: 992px) {
+  .col-md-3 {
+    width: 25%;
+    height: 360px !important;
+  }
 }
 
 
