@@ -1897,6 +1897,13 @@ li [class*=" fa-"].icon-large {
     line-height: 32px;
 }
 
+@media (min-width: 992px) {
+  .col-md-3 {
+    width: 25%;
+    height: 360px !important;
+  }
+}
+
 
 /***
 Demo Utils
