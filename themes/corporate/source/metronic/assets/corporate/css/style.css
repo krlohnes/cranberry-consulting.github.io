@@ -777,7 +777,7 @@ body.page-header-fixed {
 }
 */
 .reduce-header .mobi-toggler {
-  margin-top: 12px;
+  margin-top: 25px;
 }
 .page-header-fixed .header .mobi-toggler {
   transition: margin 0.3s ease;
