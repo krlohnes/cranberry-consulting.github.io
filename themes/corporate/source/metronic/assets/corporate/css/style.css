@@ -27,7 +27,7 @@ h1 {
 /***
 Fix link outlines after click
 ***/
-a {
+a, a:visited {
   color: #A72C3C;
 }
 a, a:focus, a:hover, a:active {
