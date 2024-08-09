@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rsync -av --progress source /Users/keith/projects/cranberry/cranberry-consulting.github.io --exclude _posts
+
+cp -R themes /Users/keith/projects/cranberry/cranberry-consulting.github.io

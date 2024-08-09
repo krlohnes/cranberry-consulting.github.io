@@ -7,7 +7,7 @@ tags:
 - Rust
 thumbnail: rust_logo_cranberry.png 
 lede: "In today's fast-paced landscape, automation has become the backbone of efficient and streamlined operations for companies across various industries. To automate is both efficient and reliable to drive quality, selecting the right programming language is crucial. One language that has gained significant attention in recent years for its unique features and benefits is Rust. Cranberry Consulting Company chose Rust for one of its automation platforms for the advantages it offers. "
-featured: true
+featured: false
 ---
 
 # Automation and Rust
